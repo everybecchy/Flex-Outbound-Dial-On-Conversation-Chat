@@ -50,7 +50,5 @@ Liberando o Plugin: Após o deploy, libere o plugin para uso no Flex com o coman
 
 twilio flex:plugins:release --name "Lançamento do Primeiro Plugin" --description "Habilitando o Plugin de Exemplo" --plugin plugin-sample@1.0.0
 
-
-Créditos
-Desenvolvido por Everybecch.
+Por Everybecch.
 
